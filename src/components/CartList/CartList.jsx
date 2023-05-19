@@ -11,7 +11,7 @@ export const CartList = () => {
           <img className="w-50 " src={prod.img} alt="imagen" />
           <label className="m-2">
             {" "}
-            Precio {prod.precio} - Cantidad : {prod.cantidad}
+            <strong>Precio:</strong> ${prod.precio} - <strong>Cantidad:</strong> {prod.cantidad}
           </label>
 
           <button className="w-50" onClick={() => deleteItem(prod.id)}>

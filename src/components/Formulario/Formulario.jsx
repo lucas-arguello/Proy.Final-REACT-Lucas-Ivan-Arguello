@@ -81,8 +81,8 @@ export const Formulary = () => {
   };
 
  return (
-    <div className= "text-center w-60">
-        <form className= "d-grid content-center mt-5 col-3" onSubmit={generateOrder}>
+    <div className= "text-center w-75">
+        <form className= "d-grid content-center mt-5 " onSubmit={generateOrder}>
         
         
           {errors.name && (

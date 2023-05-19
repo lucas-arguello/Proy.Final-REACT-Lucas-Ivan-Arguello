@@ -18,9 +18,9 @@ export const CartContainer = () => {
                 <div className="w-50">
                         { <CartList/>}
                         
-                        <h4> Cantidad Total de productos: {totalQuantity()}</h4>
-                        <h4> Precio Total de la compra :{totalPrice()}</h4>
-                        <button onClick={emptyCart} className="btn btn-outline-danger">Vaciar Carrito</button>
+                        <h4 className="mt-5"> Cantidad Total de productos: {totalQuantity()} u.</h4>
+                        <h4> Precio Total de la compra: ${totalPrice()}</h4>
+                        <button onClick={emptyCart} className=" w-50 btn btn-outline-danger">Vaciar Carrito</button>
             
                         {<Formulary/>}
 
