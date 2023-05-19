@@ -13,9 +13,9 @@ export const NavBar = () => {
       
        <Navbar className="p-4"collapseOnSelect expand="lg" bg="info" variant="dark" >
           <Container>
-
-            <Link className="text-black col-sm-5" to= "/" > 
-               MI VIVERO VIRTUAL 
+            
+            <Link className="text-black fw-lighter fs-4 col-sm-5 " to= "/" > 
+                MI VIVERO VIRTUAL 
             </Link>
 
             <Navbar.Toggle className="" aria-controls="responsive-navbar-nav"/>
@@ -27,7 +27,7 @@ export const NavBar = () => {
                         <NavLink 
                               key= {category.id} 
                               to={`/category/${category.category}`} 
-                              className={({isActive}) => isActive ? "m-2 btn btn-dark" : "m-2 btn btn-outline-dark"}> 
+                              className={({isActive}) => isActive ? "m-2 btn btn-primary" : "m-2 btn btn-outline-dark"}> 
                               
                               {category.name}
                         </NavLink>)}

@@ -7,7 +7,7 @@ export const CartWidget = () => {
 
 
   return (
-    <div className="wh-100">
+    <div className="fs-5 fw-bolder">
       {totalQuantity() !== 0 && totalQuantity()} 🛒
     </div>
   )
