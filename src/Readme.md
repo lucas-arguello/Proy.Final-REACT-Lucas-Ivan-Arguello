@@ -46,30 +46,30 @@ exterior a las cuales se puede acceder desde los botones que se encuentran en la
 
 ➕ Y todas las imagenes provinienen de la base de datos de Firebase.
 
-<img src='/public/img-readme/Firebase-Mi-Vivero-Virtual.jpg'>
+<img src='/public/img-readme/Firebase-Mi-Vivero-Virtual.jpg'><br>
 
 <h2>Seccion detalle del producto </h2>
 ➕ En esta seccion podemos ver mas informacion del producto, y encontramos que podemos incrementar o decrementar la 
    cantidad a comprar y luego agregar el producto a neustro carrito de compras, Luego de que agregamos el producto, cambian los botones de la tarjeta elejida, y nos aparacen los 2 botones de "Seguir compra" y "terminar compra".
    La eleccion del boton "Seguir compra" nos lleva nuevamente al panel de todos los productos, para seguir eligiendo algun otro, y el boton "terminar compra" nos lleva al "carrito" con una nueva vista y otras opciones.
 
-<img src='/public/img-readme/2-Secc-detalle-Mi-Vivero-Virtual.jpeg'>
+<img src='/public/img-readme/2-Secc-detalle-Mi-Vivero-Virtual.jpeg'><br>
 
-<img src='/public/img-readme/3-Secc-detalle-Mi-Vivero-Virtual.jpeg'>
+<img src='/public/img-readme/3-Secc-detalle-Mi-Vivero-Virtual.jpeg'><br>
 
 <h2>Seccion Ir al Carrito Seguir Comprando </h2>
 
 ➕ En esta seccion visualizamos informacion sobre: el precio y las cantidades de cada producto seleccionado, la cantidad total de productos, el precio total de los productos, un boton "vaciar el carrito" , un boton "eliminar producto", un formulario con la soliciyud de datos personales del comprardor, y un boton "generar orden".
 
-<img src='/public/img-readme/4-Secc-Carrito-Mi-Vivero-Virtual.jpeg'>
+<img src='/public/img-readme/4-Secc-Carrito-Mi-Vivero-Virtual.jpeg'><br>
 
 ➕ Si sleccionamos "vaciar el carrito" nos muestra un cartel informando al comprador "no hay productos en el carrito", seguido de un link con la posibilidad de "volver al panel de productos" y poder volver a tener la posibilidad de elegir otros productos.
 
-<img src='/public/img-readme/5-Secc-Carrito-Mi-Vivero-Virtual.jpeg'>
+<img src='/public/img-readme/5-Secc-Carrito-Mi-Vivero-Virtual.jpeg'><br>
 
 ➕ Si el cliente ya esta decidido a comprar, debe llenar el formulario, donde este formulario esta sometido a las validaciones necesarias para poder concretar la compra, y si los datos son correctos y pasan la validacion, podemos generar la orden de compra atraves del boton "generar orden", donde luego nos aparecera un cartel de alerta mostrandonos que la orden de compra fue confirmada y el codigo de identificacion de la orden, con un boton de "aceptar". 
 
-<img src='/public/img-readme/6-Secc-Carrito-Mi-Vivero-Virtual.jpeg'>
+<img src='/public/img-readme/6-Secc-Carrito-Mi-Vivero-Virtual.jpeg'><br>
 
 ➕ Luego de aceptada la compra, se vacia nuevamente el carrito, pudiendo volver al panel de productos. 
 
