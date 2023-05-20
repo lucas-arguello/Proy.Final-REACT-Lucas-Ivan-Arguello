@@ -61,6 +61,8 @@ exterior a las cuales se puede acceder desde los botones que se encuentran en la
 <br>
 <br>
 
+➕ Botones "Seguir compra" y "terminar compra".
+
 <img src='/public/img-readme/3-Secc-detalle-Mi-Vivero-Virtual.jpeg'>
 <br>
 <br>
