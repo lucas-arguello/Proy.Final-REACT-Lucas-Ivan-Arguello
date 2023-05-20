@@ -90,3 +90,9 @@ exterior a las cuales se puede acceder desde los botones que se encuentran en la
 ➕ Luego de aceptada la compra, se vacia nuevamente el carrito, pudiendo volver al panel de productos. 
 
 <img src='/public/img-readme/5-Secc-Carrito-Mi-Vivero-Virtual.jpeg'>
+<br>
+<br>
+
+➕ Por ultimo, la compra aceptada es enviada a la base de datos de firebase con los datos del cliente y los productos que agrego al carrito.
+
+<img src='/public/img-readme/6-Firebase-Mi-Vivero-Virtual.jpg'>
